@@ -3,7 +3,7 @@ _This is just a suggested template for the README of your project, feel free to 
 
 ### Team Members
 - Name 1 (Project Lead)
-- Name 2
+- Ethan Ewer
 - Name 3
 
 ### Project Description
