@@ -4,7 +4,7 @@ _This is just a suggested template for the README of your project, feel free to 
 ### Team Members
 - Name 1 (Project Lead)
 - Ethan Ewer
-- Name 3
+- Shrinaath Narasimhan
 
 ### Project Description
 Describe the goal of your project here.
